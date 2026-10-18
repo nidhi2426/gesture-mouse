@@ -1,0 +1,4 @@
+# Python 3.9 - 3.12.  mediapipe is PINNED: newer releases removed the legacy
+# "solutions" API this project uses.
+mediapipe==0.10.21
+pyautogui==0.9.54
